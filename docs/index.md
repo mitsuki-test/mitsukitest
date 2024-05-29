@@ -23,7 +23,7 @@
 
 </table>  
     <div style="padding: 10px; margin-bottom: 10px; border: 1px dashed #1FFFFF;">
-test
+ページの確認
 </div>   
     
   <footer>
